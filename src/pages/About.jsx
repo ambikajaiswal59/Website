@@ -10,7 +10,7 @@ import Certification from '../components/about/Certification'
 const About = () => {
   return (
     <div>
-      <div className='w-full h-[17rem] md:h-[25rem] overflow-hidden'>
+      <div className='w-full  md:h-[25rem] overflow-hidden'>
         <img src={AboutHeader} alt="About Header" className="w-full h-full" />
       </div>
       <div className="px-8 md:px-10 lg:px-20 py-5 lg:py-10 flex justify-center bg-white">

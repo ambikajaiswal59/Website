@@ -25,7 +25,7 @@ const AppSection = () => {
       });
     }
   }, [id]);
-
+  
   return (
     <div>
       <div className="px-8 md:px-10 lg:px-20 pt-5 lg:pt-20 flex flex-col justify-center items-center">

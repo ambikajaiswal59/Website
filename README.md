@@ -11,7 +11,8 @@ Currently, two official plugins are available:
 This is an amazing project that does cool things.
 
 ## Screenshot
-![Screenshot](../ML%20Website/src/assets/mlwebsiteScreenshot.png)
+
+![Screenshot](src/assets/mlwebsiteScreenshot.png)
 
 ## How to Use
 1. Clone the repo.
